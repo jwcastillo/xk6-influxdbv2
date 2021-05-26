@@ -1,4 +1,4 @@
-module github.com/ar-ne2/xk6-influxdbv2
+module github.com/ar-ne/xk6-influxdbv2
 
 go 1.16
 
